@@ -375,14 +375,14 @@ h5 {
     font-family: "Fredoka One", Sans-serif; 
 
   }
-
+/* style */
   .form{
     padding-top: 30px;
     padding-left: 10px;
     display: table;
     align-items: center;
   }
-
+/* style */
   .label{
     padding: 10px;
   }
