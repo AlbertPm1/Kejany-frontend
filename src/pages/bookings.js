@@ -50,21 +50,21 @@ function Bookings() {
     </header>
     <div class="st_table">
       <div class="st_row">
-        <div class="st_column _rank">5/2/2023</div>
-        <div class="st_column _name">John Powell</div>
-        <div class="st_column _surname">John</div>
-        <div class="st_column _year">johhn@hotmail.com</div>
-        <div class="st_column _section">0109088823</div>
+        <div class="st_column _rank">7/4/2023</div>
+        <div class="st_column _name">Kelvin Kamu</div>
+        <div class="st_column _surname">Kelvin</div>
+        <div class="st_column _year">Kelving@gmail.com</div>
+        <div class="st_column _section">07989728929</div>
       </div>
       <div class="st_row">
-        <div class="st_column _rank">23/1/2023</div>
-        <div class="st_column _name">Luke Max</div>
-        <div class="st_column _surname">Luke</div>
-        <div class="st_column _year">luke@hotmail.com</div>
-        <div class="st_column _section">0104688823</div>
+        <div class="st_column _rank">8/4/2023</div>
+        <div class="st_column _name">Susan Kamau</div>
+        <div class="st_column _surname">Susan</div>
+        <div class="st_column _year">Susan@gmail.com</div>
+        <div class="st_column _section">0736788238</div>
       </div>
       <div class="st_row">
-        <div class="st_column _rank">28/1/2023</div>
+        <div class="st_column _rank">9/4/2023</div>
         <div class="st_column _name">Miriam Kunze</div>
         <div class="st_column _surname">Kunze</div>
         <div class="st_column _year">kunze@mail.com</div>
