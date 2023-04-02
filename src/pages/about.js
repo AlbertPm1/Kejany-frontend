@@ -13,9 +13,11 @@ import React from 'react';
         <h2>ABOUT US</h2>
         <div class="about-contents">
         <div  class="about-box">
-            <strong>Who are we ?</strong>Hey there , We are EAGLE HOUSE HUNTERS and our task is clear and simple .."finding the best homes for our clients" because we know Home is where love resides, memories are created, friends always belong, and laughter never ends.<tr></tr>
-            <strong> The Journey </strong>The journey of finding the best houses for our clients has precisly not been easy but with right planning and commitment we were able to find a very convinient way to enable you find you home in just a few minutes  . <tr></tr>
-            <strong> Our goal! </strong> Putting a smile on your face and saving your time ."Your time is limited so dont waste it walking around looking for a house leave that to us"
+            <strong>Who are we ?</strong>Hey there , Kejany and our task is clear and simple .."finding the best homes for our clients" because we know Home is where love resides, memories are created, friends always belong, and laughter never ends.<tr></tr>
+            <strong> The Journey </strong>Welcome to our house buying and selling website, where we are dedicated to helping you find your dream home or sell your current one. We understand that buying or selling a house can be one of the biggest financial decisions you will make in your life, and we are here to make that process as smooth and stress-free as possible.
+
+. <tr></tr>
+            <strong>  </strong> 
         </div>
         <div class="about-img">
         <img src="https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt=""></img>
